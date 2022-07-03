@@ -1,3 +1,7 @@
+# DISCORD: xann wrld#9953
+# GITHUB: https://github.com/xannbtw/
+#This script was made for educational purposes, I am not responsible for your actions using this script.
+
 import time, os, threading, requests, random, ctypes, dhooks, sys
 from colorama import Fore
 from dhooks import Webhook
