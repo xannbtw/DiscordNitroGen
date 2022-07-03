@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-  # Discord Nitro generator + checker
+  # Discord Nitro Generator + checker
   
   ![image](https://cdn.discordapp.com/attachments/993042213451870228/993047841771634768/unknown.png)
 
