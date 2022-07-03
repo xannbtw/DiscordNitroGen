@@ -1,4 +1,4 @@
-# DISCORD: xann wrld#9953
+# DISCORD: xann wrld#0101
 # GITHUB: https://github.com/xannbtw/
 #This script was made for educational purposes, I am not responsible for your actions using this script.
 
